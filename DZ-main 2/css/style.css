@@ -1,0 +1,32 @@
+.text__h1{
+    color: rgb(255, 0, 0);
+}
+.text__h2{
+    color: rgb(255, 255, 255);
+    background-color: rgb(25, 0, 255);
+    width: 200px;
+    height: 60px;
+    font-size: 8px;
+}
+.text__p{
+    margin: 200px 0px 0px 0px;
+}
+.text_1{
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 128, 0);
+}
+.text__2{
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 128, 0);
+    padding: 50px 50px 50px 50px;
+}
+.tetx__3{
+    margin: 0px 0px 10px 120px;
+}
+.tetx__4{
+    border: 1px solid rgb(0, 0, 0);
+    font-size: 30px;
+}
+p span{
+    color:rgb(255, 0, 0);
+}
